@@ -20,7 +20,7 @@
   ],
   "theme_color": "#212121",
   "background_color": "#212121",
-  "start_url": "/",
-  "scope:": "/",
+  "start_url": "/lights-out",
+  "scope:": "/lights-out",
   "display": "standalone"
 }
