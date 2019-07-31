@@ -40,9 +40,9 @@ table tr:last-child td:last-child {
   color: #fb4264;
   font-size: 80px;
   text-shadow: 0 0 3vw #f40a35;
-  animation: neon-orange 1s ease infinite;
-  -moz-animation: neon-orange 1s ease infinite;
-  -webkit-animation: neon-orange 1s ease infinite;
+  animation: neon-orange 5s ease infinite;
+  -moz-animation: neon-orange 5s ease infinite;
+  -webkit-animation: neon-orange 5s ease infinite;
 }
 
 .Board-title {
@@ -55,10 +55,10 @@ table tr:last-child td:last-child {
   color: #426dfb;
   font-size: 80px;
   text-shadow: 0 0 3vw #2356ff;
-  animation: neon-blue 2s linear infinite;
-  -moz-animation: neon-blue 2s linear infinite;
-  -webkit-animation: neon-blue 2s linear infinite;
-  -o-animation: neon-blue 2s linear infinite;
+  animation: neon-blue 5s linear infinite;
+  -moz-animation: neon-blue 5s linear infinite;
+  -webkit-animation: neon-blue 5s linear infinite;
+  -o-animation: neon-blue 5s linear infinite;
 }
 
 @keyframes neon-orange {
